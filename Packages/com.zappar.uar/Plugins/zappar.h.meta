@@ -1,8 +1,15 @@
 fileFormatVersion: 2
 guid: 6ade7dc651a784255990d8fa78620a2e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 245020
+  packageName: Universal AR (UAR) SDK - Web and Native AR
+  packageVersion: 3.2.3
+  assetPath: Packages/com.zappar.uar/Plugins/zappar.h
+  uploadId: 597678
 PluginImporter:
   externalObjects: {}
-  serializedVersion: 2
+  serializedVersion: 3
   iconMap: {}
   executionOrder: {}
   defineConstraints: []
@@ -11,24 +18,9 @@ PluginImporter:
   isExplicitlyReferenced: 0
   validateReferences: 1
   platformData:
-  - first:
-      Any: 
-    second:
+    Any:
       enabled: 1
       settings: {}
-  - first:
-      Editor: Editor
-    second:
-      enabled: 0
-      settings:
-        DefaultValueInitialized: true
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 245020
-  packageName: Universal AR (UAR) SDK - Web and Native AR
-  packageVersion: 3.2.3
-  assetPath: Packages/com.zappar.uar/Plugins/zappar.h
-  uploadId: 597678
